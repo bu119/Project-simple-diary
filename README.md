@@ -1,8 +1,6 @@
 # 간단한 일기장 프로젝트
 
-**React** 를 활용한 Toy Project 입니다.
-
-#### 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 (inflearn)
+한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 (inflearn)
 
 
 
